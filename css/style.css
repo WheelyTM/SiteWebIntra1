@@ -1,0 +1,150 @@
+html,body { margin:0; padding:0;
+}
+
+html,body {
+    height:100%;}
+
+.sectionBanniere {
+    margin:0;
+    height: 100%;
+    text-align: center;
+    background-image: url("../img/HayaoMiyazaki.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}.sectionBanniereMd {
+     margin:0;
+     height: 100%;
+     text-align: center;
+     background-image: url("../img/HayaoMiyazakiMd.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+ }
+.sectionBanniereSm {
+    margin:0;
+    height: 100%;
+    text-align: center;
+    background-image: url("../img/HayaoMiyazakiSm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+ .sectionInformation p {
+     text-align: justify;
+     font-size: 150%;
+     margin-bottom: 0;
+}
+ .sectionInformation h2 {
+     font-size: 300%;
+ }
+.sectionFilm{
+    text-align: center;
+    padding-bottom: 0%;
+
+}
+.sectionFilm h2 {
+    font-size: 250%;
+    margin-bottom: 0;
+}
+.sectionFilm p {
+    margin: 0 0 0;
+    font-size: 125%;
+}
+.sectionFilm img {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+}
+
+.sectionFontAwesome {
+    background-color: #fbe9bb;
+    text-align: center;
+    margin-bottom: 0.35%;
+}
+.sectionFontAwesome h2 {
+    font-size: 250%;
+    margin-top: 1%;
+    margin-bottom: 0;
+}
+.sectionFontAwesome p {
+    font-size: 125%;
+    margin-top: 0;
+    margin-bottom: 1%;
+}
+.sectionFontAwesome i {
+    padding-bottom: 10%;
+}
+.parallax1 {
+    background-image: url("../img/hayao-miyazaki (1).jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+}
+.parallax1 h2 {
+    margin-top: 50%;
+    font-size: 350%;
+    color:white;
+}
+.parallax2 {
+    background-image: url("../img/32-1600x1200.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 h2 {
+    margin-top: 50%;
+    font-size: 350%;
+    color: white;
+}
+.parallax3 {
+    background-image: url("../img/1491910102114-Miyazki-young.png");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax2 h3 {
+    margin-top: 50%;
+    font-size: 350%;
+    color: white;
+}
+.height {
+    height: 100%;
+}
+.height80{
+    height: 80%;
+}
+.sectionPortfolio{
+    background: black;
+    margin: 0;
+    padding: 0;
+
+}
+.sectionFormulaire{
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.footer{
+    text-align: center;
+    vertical-align: bottom;
+    background-color: lightgrey;
+}
+.footer p {
+    margin: 0 0 0;
+    font-size: 80%;
+}
+.footerRow {
+    height: 20%;
+
+}
+
